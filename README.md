@@ -14,6 +14,12 @@ The analysis focuses on a pizza sales dataset to uncover trends related to reven
 
 ---
 
+## 🧾 Data Source  
+
+The dataset used in this project contains historical pizza sales transaction records. 
+
+📁 **File Used:** `pizza_sales_excel_file.xlsx`  
+
 ## 🧪 Tools & Technologies
 | Component | Technology Used |
 |----------|----------------|
