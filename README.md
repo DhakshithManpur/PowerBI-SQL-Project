@@ -47,7 +47,6 @@ Analysis is performed based on:
 
 Top 5 and Worst 5 pizzas are highlighted to evaluate product performance.
 
----
 
 ### 🔹 Performance by Category  
 
@@ -55,17 +54,12 @@ Top 5 and Worst 5 pizzas are highlighted to evaluate product performance.
 - Other categories contribute fairly evenly, while one category shows noticeably lower performance  
 - Category-level analysis indicates strong customer preferences linked to flavor variety
 
----
 
 ### 🔹 Performance by Pizza Size  
 
 - Larger size pizzas contribute the highest share of revenue and orders  
 - Medium and regular sizes also perform well  
 - Extra-large sizes have comparatively lower contribution, indicating limited demand  
-
----
-
-## 🥇 Best & Worst Sellers
 
 
 ---
