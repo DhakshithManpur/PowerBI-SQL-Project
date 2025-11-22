@@ -50,7 +50,7 @@ The dataset used in this project contains historical pizza sales transaction rec
 ### 🔹 Best & Worst Sellers  
 Analysis is performed based on:
 - **Revenue**
-- **Quantity **
+- **Quantity** 
 - **Total Orders**
 
 Top 5 and Worst 5 pizzas are highlighted to evaluate product performance.
