@@ -20,6 +20,8 @@ The dataset used in this project contains historical pizza sales transaction rec
 
 📁 **File Used:** `pizza_sales_excel_file.xlsx`  
 
+---
+
 ## 🧪 Tools & Technologies
 | Component | Technology Used |
 |----------|----------------|
@@ -69,13 +71,6 @@ Top 5 and Worst 5 pizzas are highlighted to evaluate product performance.
 
 
 ---
-
-## 📈 Dashboard Features
-- Interactive slicers for **pizza types**, **sizes**, and **time periods**
-- Dynamic KPI cards that update based on selected filters
-
----
-
 ## 🗂 SQL Queries Used
 The analysis pipeline includes SQL-based data preparation such as:
 
@@ -85,6 +80,14 @@ The analysis pipeline includes SQL-based data preparation such as:
 - Time-based grouping (DAY, MONTH)
 
 ---
+
+## 📈 Dashboard Features
+- Interactive slicers for **pizza types**, **sizes**, and **time periods**
+- Dynamic KPI cards that update based on selected filters
+
+
+
+
 
 
 
