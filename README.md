@@ -7,7 +7,7 @@ The analysis focuses on a pizza sales dataset to uncover trends related to reven
 ---
 
 ## 🎯 Project Objectives
-- Analyze sales trends by **date, month, category, and size**
+- Analyze sales trends by **Daily, month, category, and size**
 - Identify **top and bottom-performing pizzas** based on sales metrics
 - Track business KPIs such as revenue and order patterns
 - Provide actionable insights to improve strategic decision-making
@@ -17,7 +17,7 @@ The analysis focuses on a pizza sales dataset to uncover trends related to reven
 ## 🧪 Tools & Technologies
 | Component | Technology Used |
 |----------|----------------|
-| Data Source | CSV/Excel Dataset |
+| Data Source |Excel Dataset |
 | Database | SQL Server / MySQL |
 | Query Language | SQL |
 | Visualization | Power BI |
@@ -32,7 +32,7 @@ The analysis focuses on a pizza sales dataset to uncover trends related to reven
 | **Total Revenue** | Total amount generated from pizza sales |
 | **Total Orders** | Total number of successful completed orders |
 | **Total Pizza Sold** | Count of all pizzas sold |
-| **Average Total Orders** | Avg number of orders placed per day/month |
+| **Average Total value** | Avg number of orders placed per day/month |
 | **Average Pizza Per Order** | Ratio of pizzas sold to total orders |
 
 ---
@@ -42,29 +42,36 @@ The analysis focuses on a pizza sales dataset to uncover trends related to reven
 ### 🔹 Best & Worst Sellers  
 Analysis is performed based on:
 - **Revenue**
-- **Quantity Sold**
+- **Quantity **
 - **Total Orders**
 
 Top 5 and Worst 5 pizzas are highlighted to evaluate product performance.
 
 ---
 
-### 🔹 Sales Performance Visuals
-The dashboard includes:
+### 🔹 Performance by Category  
 
-| Type of Analysis | Visualization |
-|----------------|---------------|
-| **Category-wise Sales** | Bar/Column Chart |
-| **Size-wise Sales Distribution** | Pie/Donut Chart |
-| **Daily Trend of Orders** | Line Chart |
-| **Monthly Trend of Orders** | Line/Area Chart |
-| **Top/Bottom Selling Items** | Table with Conditional Formatting |
+- One pizza category consistently shows the highest share of sales and total orders  
+- Other categories contribute fairly evenly, while one category shows noticeably lower performance  
+- Category-level analysis indicates strong customer preferences linked to flavor variety
+
+---
+
+### 🔹 Performance by Pizza Size  
+
+- Larger size pizzas contribute the highest share of revenue and orders  
+- Medium and regular sizes also perform well  
+- Extra-large sizes have comparatively lower contribution, indicating limited demand  
+
+---
+
+## 🥇 Best & Worst Sellers
+
 
 ---
 
 ## 📈 Dashboard Features
 - Interactive slicers for **pizza types**, **sizes**, and **time periods**
-- Drill-through functionality for detailed order insights
 - Dynamic KPI cards that update based on selected filters
 
 ---
@@ -75,10 +82,9 @@ The analysis pipeline includes SQL-based data preparation such as:
 - Data Cleaning  
 - Aggregations (SUM, COUNT, AVG)  
 - Ranking (TOP 5, Bottom 5 using ORDER BY)  
-- Time-based grouping (DAY, MONTH, YEAR)
+- Time-based grouping (DAY, MONTH)
 
 ---
 
-## 📂 File Structure
 
 
