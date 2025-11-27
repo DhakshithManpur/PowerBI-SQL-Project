@@ -87,10 +87,12 @@ The analysis pipeline includes SQL-based data preparation such as:
 
 
 ### 🏠 1️⃣ Overview Page
-<img width="1186" height="667" alt="Home" src="https://github.com/user-attachments/assets/526899c6-731b-4599-80a5-ba3f60a7a666" />
+<img width="1183" height="669" alt="Overview" src="https://github.com/user-attachments/assets/522b9ce3-89af-4425-a71e-0030e2bd312e" />
 
 ### 🍕 2️⃣ Top & Worst Performers
-<img width="1187" height="664" alt="Best(or)Worst Sellers" src="https://github.com/user-attachments/assets/caf3ab08-c80c-4a6e-bf25-c149724ad3ff" />
+<img width="1186" height="666" alt="Top(or)Worst sellers" src="https://github.com/user-attachments/assets/0220fbe0-3523-4aa4-9b32-d042b0c12884" />
+
+
                                               
 
 
