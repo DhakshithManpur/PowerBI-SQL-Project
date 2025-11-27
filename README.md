@@ -86,7 +86,8 @@ The analysis pipeline includes SQL-based data preparation such as:
 - Dynamic KPI cards that update based on selected filters
 
 
-![Uploading Home.png…]()
+<img width="1186" height="667" alt="Home" src="https://github.com/user-attachments/assets/526899c6-731b-4599-80a5-ba3f60a7a666" />
+
 <img width="1187" height="664" alt="Best(or)Worst Sellers" src="https://github.com/user-attachments/assets/caf3ab08-c80c-4a6e-bf25-c149724ad3ff" />
 
 
