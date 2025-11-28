@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis Dashboard (Power BI + SQL Project)
+# 🍕 Pizza Sales Analysis Report (Power BI + SQL Project)
 
 ## 📌 Project Overview
 This project presents an end-to-end data analysis solution using **SQL for data extraction** and **Power BI for data visualization**.  
